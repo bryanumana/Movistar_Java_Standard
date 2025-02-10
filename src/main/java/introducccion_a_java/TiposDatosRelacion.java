@@ -32,7 +32,7 @@ public class TiposDatosRelacion {
         } else if (num2 > num1){
             System.out.println("The integer number " + num2 + " is greater than " + num1);
         } else {
-            System.out.println("The integer number " + num3 + " is equal to " + num3);
+            System.out.println("The integer number " + num1 + " is equal to " + num2);
         }
 
         float div = (num1 * num2) / num3;
