@@ -2,7 +2,7 @@ package introducccion_a_java;
 
 import java.util.Scanner;
 
-public class TiposDatosRelacion {
+public class Tipos_Datos_Relacion {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
